@@ -1,0 +1,20 @@
+Problems
+
+Q1. WAP in C to input n numbers in an array, find out the sum of odd nos. and even nos. 
+Display the numbers whose sum is high.
+Q2. WAP in C to input n numbers in an array, reverse the array and display.
+Q3. WAP in C to input n numbers in an array, search one element and find out how many 
+times the number available in the array, if the number is not available then display 
+proper message.
+Q4. WAP in C to input n numbers in an array, swap the pairing element and display. 
+Example a[]={1,2,3,4,5}, O/P:=a[]={2,1,4,3,5}
+Q5. WAP in C to find largest and smallest element stored in an array. Q6. WAP in C to swap first element with last, second element with second last and so on, 
+and display the array elements.
+Q7. WAP in C to input n numbers in an array, then copy all the element to another array and 
+print it.
+Q8. WAP in C to input m and n numbers in two array, and display the concatenate of that 
+two array.
+Q9. WAP in C to input n numbers in an array and print all the elements that are three digit 
+even integers.
+Q10. WAP in C to store 1st n prime numbers in an array and display the array.
+Q11. WAP in C to convert decimal number to binary using array.
